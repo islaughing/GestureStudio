@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GestureStudio</string>
+    <string name="me">islaughing</string>
+    <string name="GestureDetector">GestureDetector</string>
+    <string name="GestureLibrary">GestureLibrary</string>
+    <string name="TTS">TTL</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="addGesture">添加手势</string>
+    <string name="read">read</string>
+    <string name="record">record</string>
+    <string name="addName">添加手势名</string>
+    <string name="recognize">识别手势</string>
+    <string name="save">增加手势</string>
+</resources>
